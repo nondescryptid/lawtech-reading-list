@@ -29,7 +29,8 @@ One of the hardest things is not knowing where to start -- Hopefully, this list 
 [Towards Data Science](https://towardsdatascience.com/)
 
 ## Random Fun Links
-
+[3blue1brown (Youtube channel)] https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+[The Wisdom and/or Madness of Crowds: an interactive guide to human networks](https://ncase.me/crowds/)
 ## Thanks to the following contributors: 
 
 ## Contributing to this / Want to chitchat? 
