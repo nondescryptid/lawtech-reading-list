@@ -8,7 +8,7 @@ One of the hardest things is not knowing where to start -- Hopefully, this list 
 
 ## Tech of Law
 ### Legal informatics 
-The management of information is crucial to the proper functioning of any legal system. A good legal system relies on information about the world itself (such as evidence of who did what and when) as well as more purely legal information (such as court rulings, statutes, contracts, and so forth). Legal Informatics is the theory and practice of managing such information. It covers both legal theory and information theory. ([Source]https://law.stanford.edu/courses/legal-informatics/))
+The management of information is crucial to the proper functioning of any legal system. A good legal system relies on information about the world itself (such as evidence of who did what and when) as well as more purely legal information (such as court rulings, statutes, contracts, and so forth). Legal Informatics is the theory and practice of managing such information. It covers both legal theory and information theory. ([Source](https://law.stanford.edu/courses/legal-informatics/))
 
 [Ontologies for lawyers](https://medium.com/legal-design-and-innovation/ontologies-for-lawyers-5c3b9fb23439)
 
