@@ -8,9 +8,16 @@ One of the hardest things is not knowing where to start -- Hopefully, this list 
 
 ## Tech of Law
 ### Legal informatics 
+The management of information is crucial to the proper functioning of any legal system. A good legal system relies on information about the world itself (such as evidence of who did what and when) as well as more purely legal information (such as court rulings, statutes, contracts, and so forth). Legal Informatics is the theory and practice of managing such information. It covers both legal theory and information theory. ([Source]https://law.stanford.edu/courses/legal-informatics/)
+
 [Ontologies for lawyers](https://medium.com/legal-design-and-innovation/ontologies-for-lawyers-5c3b9fb23439)
 
 [Open source NLP and machine learning for legal texts: What is Blackstone and how did we build it?](https://research.iclr.co.uk/blog/blackstone-goes-live)
+
+#### Computational Law
+Computational law is a branch of legal informatics concerned with the mechanization of legal reasoning (whether done by humans or by computers) ([Source](http://complaw.stanford.edu/readings/complaw.html))
+
+[Computational Law: The Cop in the Backseat, Michael Genesereth](http://complaw.stanford.edu/readings/complaw.html)
 
 ## Law of Tech 
 
@@ -30,7 +37,9 @@ One of the hardest things is not knowing where to start -- Hopefully, this list 
 
 ## Random Fun Links
 [3blue1brown (Youtube channel)] https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
 [The Wisdom and/or Madness of Crowds: an interactive guide to human networks](https://ncase.me/crowds/)
+
 ## Thanks to the following contributors: 
 
 ## Contributing to this / Want to chitchat? 
