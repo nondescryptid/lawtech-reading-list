@@ -21,6 +21,8 @@ Computational law is a branch of legal informatics concerned with the mechanizat
 
 [Computational Law: The Cop in the Backseat, Michael Genesereth](http://complaw.stanford.edu/readings/complaw.html)
 
+[The British Nationality Act as a Logic Program[(http://www.doc.ic.ac.uk/~rak/papers/British%20Nationality%20Act.pdf)
+
 [Computational Contract Collaboration and Construction, Wong Meng Weng et al.](https://drive.google.com/file/d/0B-lTLNYJdzgKSkdQaTNmUG1zSlk/view)
 
 ## Law of Tech 
