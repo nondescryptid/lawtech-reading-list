@@ -7,6 +7,7 @@ Hi! I'm Tomoe and I spend an inordinate amount of time poking about online, and 
 One of the hardest things is not knowing where to start -- Hopefully, this list will help people who are interested in learning more, but don't really know where to begin.  
 
 ## Tech of Law
+How does technology and law intersect? 
 
 ### Legal informatics 
 The management of information is crucial to the proper functioning of any legal system. A good legal system relies on information about the world itself (such as evidence of who did what and when) as well as more purely legal information (such as court rulings, statutes, contracts, and so forth). Legal Informatics is the theory and practice of managing such information. It covers both legal theory and information theory. ([Source](https://law.stanford.edu/courses/legal-informatics/))
@@ -38,7 +39,7 @@ Regulating technology
 [Towards Data Science](https://towardsdatascience.com/)
 
 ## Random Fun Links
-[3blue1brown (Youtube channel)] https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+[3blue1brown (Youtube channel)](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 [The Wisdom and/or Madness of Crowds: an interactive guide to human networks](https://ncase.me/crowds/)
 
