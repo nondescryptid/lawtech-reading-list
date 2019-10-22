@@ -7,7 +7,7 @@ Hi! I'm Tomoe and I spend an inordinate amount of time poking about online, and 
 One of the hardest things is not knowing where to start -- Hopefully, this list will help people who are interested in learning more, but don't really know where to begin.  
 
 ## Tech of Law
-How does technology and law intersect? 
+How do technology and law intersect? 
 
 ### Legal informatics 
 The management of information is crucial to the proper functioning of any legal system. A good legal system relies on information about the world itself (such as evidence of who did what and when) as well as more purely legal information (such as court rulings, statutes, contracts, and so forth). Legal Informatics is the theory and practice of managing such information. It covers both legal theory and information theory. ([Source](https://law.stanford.edu/courses/legal-informatics/))
@@ -22,7 +22,7 @@ Computational law is a branch of legal informatics concerned with the mechanizat
 [Computational Law: The Cop in the Backseat, Michael Genesereth](http://complaw.stanford.edu/readings/complaw.html)
 
 ## Law of Tech 
-Regulating technology
+How is technology regulated? 
 
 ## Legal Education
 
@@ -37,6 +37,9 @@ Regulating technology
 [LawTech.Asia](https://lawtech.asia/)
 
 [Towards Data Science](https://towardsdatascience.com/)
+
+[Machine Lawyering - Chinese University of Hong Kong](https://www.legalanalytics.law.cuhk.edu.hk/)
+>  A blog organized and edited by the CUHK Law Faculty's Centre for Financial Regulation and Economic Development. Entries address the application of information technology to law, legal transactions and regulation. 
 
 ## Random Fun Links
 [3blue1brown (Youtube channel)](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
