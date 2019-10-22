@@ -2,7 +2,7 @@
 
 
 ## About This Project / Pontification Space 
-I spend an inordinate amount of time poking about online, and decided that I should organise the things I've been reading (or intend to read) a little better. The world is moving terribly fast, and I wake up every day a little more ignorant than I was the day before. This is my attempt to get a bit more organised, and also learn more, given that I used to be (still sort of am) an inveterate humanities student who can't even do mental arithmetic very well. 
+I spend an inordinate amount of time poking about online, and decided that I should organise the things I've been reading (or intend to read) a little better. The world is moving terribly fast, and I wake up every day a little more ignorant than I was the day before. This is my attempt to get a bit more organised, and also learn more about an area that I (as an inveterate humanities student) have never been truly comfortable in. 
 
 The stuff I'm reading can be sorted into four main categories: Tech of Law (how tech can be applied to law); Law of Tech (how law can regulate tech) , Legal Education, and Access to Justice (the last 2 categories will overlap a fair bit). 
 
