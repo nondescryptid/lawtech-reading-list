@@ -28,6 +28,8 @@ Doing pro bono is gratifying, but immensely frustrating when I realise that my i
 
 [MIT Technology Review](https://www.technologyreview.com/)
 
+[LawTech.Asia](https://lawtech.asia/)
+
 [Towards Data Science](https://towardsdatascience.com/)
 
 ## Random Fun Links
