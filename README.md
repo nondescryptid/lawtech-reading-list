@@ -19,7 +19,7 @@ One of the hardest things is not knowing where to start -- Hopefully, this list 
 ## Access to Justice
 [AI Goes to Court: The Growing Landscape of AI for Access to Justice](https://medium.com/legal-design-and-innovation/ai-goes-to-court-the-growing-landscape-of-ai-for-access-to-justice-3f58aca4306f)
 
-## Websites I like to visit 
+## Websites
 [Stanford Legal Design & Innovation on Medium](https://medium.com/legal-design-and-innovation) 
 
 [MIT Technology Review](https://www.technologyreview.com/)
