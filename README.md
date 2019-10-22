@@ -1,11 +1,11 @@
 # lawtech-reading-list
 personal map of the law + tech universe 
 
-## about this 
+## About This
 
-## tech of law
+## Tech of Law
 
-## law of tech 
+## Law of Tech 
 
-## want to contribute? 
-Make a pull request! 
+## Want to add on to this list / have suggestions? 
+Make a pull request! Or reach out to me on Telegram @suzukitomoe. 
