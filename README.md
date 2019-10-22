@@ -13,7 +13,8 @@ Doing pro bono is gratifying, but immensely frustrating when I realise that my i
 ## Tech of Law
 ### Legal informatics 
 [Ontologies for lawyers](https://medium.com/legal-design-and-innovation/ontologies-for-lawyers-5c3b9fb23439)
-
+[ICLR&D Blackstone Concept Extractor](https://research.iclr.co.uk/blog/blackstone-concept-extractor)
+> An interesting look into how the Incorporated Council of Law Reporting for England and Wales 
 ## Law of Tech 
 
 ## Legal Education
@@ -30,6 +31,8 @@ Doing pro bono is gratifying, but immensely frustrating when I realise that my i
 
 ## Random Fun Links
 
+## Thanks to the following contributors: 
+Add your name here if you've put down your own reading suggestions (and have made a pull request) :)
 
 ## Want to add on to this list / have suggestions / want to meet and chat? 
 Make a pull request! Alternatively, I can be found on Telegram @suzukitomoe. 
