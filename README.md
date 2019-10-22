@@ -13,8 +13,9 @@ Doing pro bono is gratifying, but immensely frustrating when I realise that my i
 ## Tech of Law
 ### Legal informatics 
 [Ontologies for lawyers](https://medium.com/legal-design-and-innovation/ontologies-for-lawyers-5c3b9fb23439)
-[ICLR&D Blackstone Concept Extractor](https://research.iclr.co.uk/blog/blackstone-concept-extractor)
-> An interesting look into how the Incorporated Council of Law Reporting for England and Wales 
+[Open source NLP and machine learning for legal texts. What is Blackstone and how did we build it?](https://research.iclr.co.uk/blog/blackstone-goes-live)
+
+> An interesting look into how the Incorporated Council of Law Reporting for England and Wales built their prototype version of its legal natural language processing system. Head [here](https://github.com/ICLRandD/Blackstone) if you want to check out their Github repository. 
 ## Law of Tech 
 
 ## Legal Education
