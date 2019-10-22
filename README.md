@@ -44,9 +44,19 @@ How is technology regulated?
 >  A blog organized and edited by the CUHK Law Faculty's Centre for Financial Regulation and Economic Development. Entries address the application of information technology to law, legal transactions and regulation. 
 
 ## Majulah Singapura! (and the region in general?) 
-[https://www.supremecourt.gov.sg/docs/default-source/default-document-library/deep-thinking---the-future-of-the-legal-profession-in-an-age-of-technology-(250419---final).pdf](Deep Thinking: The Future of the Legal Profession in an Age of Technology; Gala Dinner Address at the 29th Inter-Pacific Bar Association Annual Meeting and Conference)
+[Deep Thinking: The Future of the Legal Profession in an Age of Technology; Gala Dinner Address at the 29th Inter-Pacific Bar Association Annual Meeting and Conference](https://www.supremecourt.gov.sg/docs/default-source/default-document-library/deep-thinking---the-future-of-the-legal-profession-in-an-age-of-technology-(250419---final).pdf)
 
 [2019 State of Legal Innovation Report Asia Pacific](https://www.sal.org.sg/Portals/0/PDF%20Files/State_of_Legal_Innovation_APAC_2019.pdf?ver=2019-04-09-133830-127)
+
+[Asia-Pacific legal Innovation and Technology Association](https://alita.legal/)
+
+Legal Hackers SG | [Facebook](https://www.facebook.com/groups/sglegalhackers) | [Telegram Channel](https://t.me/LegalHackersSG)
+
+[NUS Law alt+law](http://altlaw.xyz/)
+
+[SMU Legal Innovation and Technology (LIT)](https://www.smulit.com/)
+
+
 
 ## Random Fun Links
 [3blue1brown (Youtube channel)](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
