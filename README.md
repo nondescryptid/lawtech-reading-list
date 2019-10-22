@@ -52,15 +52,11 @@ How is technology regulated?
 
 [2019 State of Legal Innovation Report Asia Pacific](https://www.sal.org.sg/Portals/0/PDF%20Files/State_of_Legal_Innovation_APAC_2019.pdf?ver=2019-04-09-133830-127)
 
-[Asia-Pacific legal Innovation and Technology Association](https://alita.legal/)
-
-Legal Hackers SG | [Facebook](https://www.facebook.com/groups/sglegalhackers) | [Telegram Channel](https://t.me/LegalHackersSG)
-
-[NUS Law alt+law](http://altlaw.xyz/)
-
-[SMU Legal Innovation and Technology (LIT)](https://www.smulit.com/)
-
 [B2C2 Ltd v Quoine Pte Ltd ](https://www.sicc.gov.sg/docs/default-source/modules-document/judgments/b2c2-ltd-v-quoine-pte-ltd_a1cd5e6e-288e-44ce-b91d-7b273541b86a_8de9f2e2-478e-46aa-b48f-de469e5390e7.pdf) - Singapore's first legal dispute relating to cryptocurrency
+
+### Community
+[Asia-Pacific legal Innovation and Technology Association](https://alita.legal/) | Legal Hackers SG ([Facebook](https://www.facebook.com/groups/sglegalhackers) | [Telegram Channel](https://t.me/LegalHackersSG)) | [NUS Law alt+law](http://altlaw.xyz/) | 
+[SMU Legal Innovation and Technology (LIT)](https://www.smulit.com/)
 
 ## Random Fun Links
 [3blue1brown (Youtube channel)](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
