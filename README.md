@@ -31,7 +31,7 @@ How is technology regulated?
 ## Access to Justice
 [AI Goes to Court: The Growing Landscape of AI for Access to Justice](https://medium.com/legal-design-and-innovation/ai-goes-to-court-the-growing-landscape-of-ai-for-access-to-justice-3f58aca4306f)
 
-## Websites
+## Websites / Sources 
 [Stanford Legal Design & Innovation on Medium](https://medium.com/legal-design-and-innovation) 
 
 [MIT Technology Review](https://www.technologyreview.com/)
@@ -42,6 +42,11 @@ How is technology regulated?
 
 [Machine Lawyering - Chinese University of Hong Kong](https://www.legalanalytics.law.cuhk.edu.hk/)
 >  A blog organized and edited by the CUHK Law Faculty's Centre for Financial Regulation and Economic Development. Entries address the application of information technology to law, legal transactions and regulation. 
+
+## Majulah Singapura! (and the region in general?) 
+[https://www.supremecourt.gov.sg/docs/default-source/default-document-library/deep-thinking---the-future-of-the-legal-profession-in-an-age-of-technology-(250419---final).pdf](Deep Thinking: The Future of the Legal Profession in an Age of Technology; Gala Dinner Address at the 29th Inter-Pacific Bar Association Annual Meeting and Conference)
+
+[2019 State of Legal Innovation Report Asia Pacific](https://www.sal.org.sg/Portals/0/PDF%20Files/State_of_Legal_Innovation_APAC_2019.pdf?ver=2019-04-09-133830-127)
 
 ## Random Fun Links
 [3blue1brown (Youtube channel)](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
