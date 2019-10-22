@@ -23,6 +23,7 @@ Doing pro bono is gratifying, but immensely frustrating when I realise that my i
 
 ## Websites I like to visit 
 [Stanford Legal Design & Innovation on Medium](https://medium.com/legal-design-and-innovation) 
+[MIT Technology Review](https://www.technologyreview.com/)
 
 ## Want to add on to this list / have suggestions / want to meet and chat? 
 Make a pull request! Alternatively, I can be found on Telegram @suzukitomoe. 
