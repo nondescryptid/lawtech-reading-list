@@ -43,6 +43,8 @@ How is technology regulated?
 [Machine Lawyering - Chinese University of Hong Kong](https://www.legalanalytics.law.cuhk.edu.hk/)
 >  A blog organized and edited by the CUHK Law Faculty's Centre for Financial Regulation and Economic Development. Entries address the application of information technology to law, legal transactions and regulation. 
 
+[Stanford CodeX Publications](https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/codex-publications/#slsnav-seminal-papers)
+
 ## Majulah Singapura! (and the region in general?) 
 [Deep Thinking: The Future of the Legal Profession in an Age of Technology; Gala Dinner Address at the 29th Inter-Pacific Bar Association Annual Meeting and Conference](https://www.supremecourt.gov.sg/docs/default-source/default-document-library/deep-thinking---the-future-of-the-legal-profession-in-an-age-of-technology-(250419---final).pdf)
 
