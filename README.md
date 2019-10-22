@@ -6,9 +6,7 @@ I spend an inordinate amount of time poking about online, and decided that I sho
 
 The stuff I'm reading can be sorted into four main categories: Tech of Law (how tech can be applied to law); Law of Tech (how law can regulate tech) , Legal Education, and Access to Justice (the last 2 categories will overlap a fair bit). 
 
-I'm interested in how law schools around the world are incorporating technology in their curriculum (vested interest here -- I'm a law student), and how technology can be harnessed to improve access to justice. The legal industry is generally slow to respond (and exploit) technological advancement -- and its applications to access to justice seem to be slower. In Singapore where I'm from, there are plenty of projects about contract clause review using supervised machine learning, but there doesn't seem to be as many projects working on access to justice. 
-
-Doing pro bono is gratifying, but immensely frustrating when I realise that my impact is mostly on a 1:1 scale. There is only so much of any person to go around. What are the kinds of assistance that can be scaled? 
+Hopefully, this list will become a good source for people who are interested in learning more about law and tech, but don't really know where to start. 
 
 ## Tech of Law
 ### Legal informatics 
@@ -16,7 +14,6 @@ Doing pro bono is gratifying, but immensely frustrating when I realise that my i
 
 [Open source NLP and machine learning for legal texts: What is Blackstone and how did we build it?](https://research.iclr.co.uk/blog/blackstone-goes-live)
 
-> An interesting look into how the Incorporated Council of Law Reporting for England and Wales built their prototype version of its legal natural language processing system. Head [here](https://github.com/ICLRandD/Blackstone) if you want to check out their Github repository. 
 ## Law of Tech 
 
 ## Legal Education
@@ -36,7 +33,6 @@ Doing pro bono is gratifying, but immensely frustrating when I realise that my i
 ## Random Fun Links
 
 ## Thanks to the following contributors: 
-Add your name here if you've put down your own reading suggestions (and have made a pull request) :)
 
-## Want to add on to this list / have suggestions / want to meet and chat? 
-Make a pull request! Alternatively, I can be found on Telegram @suzukitomoe. 
+## Contributing to this / Want to chitchat? 
+Make a pull request, and add your name to the contributor section above! If you want to talk, I can be found on Telegram @suzukitomoe.
