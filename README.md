@@ -33,4 +33,4 @@ One of the hardest things is not knowing where to start -- Hopefully, this list 
 ## Thanks to the following contributors: 
 
 ## Contributing to this / Want to chitchat? 
-Make a pull request, and add your name to the contributor section above! If you want to talk, I can be found on Telegram @suzukitomoe.
+Make a pull request, and add your name (or github handle, whatever floats your boat) to the contributor section above! If you want to talk, I can be found on Telegram @suzukitomoe.
