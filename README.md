@@ -25,6 +25,8 @@ Computational law is a branch of legal informatics concerned with the mechanizat
 
 [Computational Contract Collaboration and Construction, Wong Meng Weng et al.](https://drive.google.com/file/d/0B-lTLNYJdzgKSkdQaTNmUG1zSlk/view)
 
+[The Accord Project](https://www.accordproject.org/) | [Legalese](https://legalese.com/)
+
 ## Law of Tech 
 How is technology regulated? 
 
