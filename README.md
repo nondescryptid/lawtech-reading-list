@@ -2,9 +2,7 @@
 
 
 ## About This Project / Pontification Space 
-Hi! I'm Tomoe, and I spend an inordinate amount of time poking about online. Here's my attempt to organise the things I've been reading (or intend to read) a little better. The world is moving terribly fast, and we wake up every day a little more ignorant than we were the day before. 
-
-One of the hardest things is not knowing where to start -- Hopefully, this list will help people who are interested in learning more, but don't really know where to begin.  
+Hi! The world is moving terribly fast, and we wake up every day a little more ignorant than we were the day before. One of the hardest things is not knowing where to start -- Hopefully, this list will help people who are interested in learning more about law and technology, but don't really know where to begin.  
 
 ## Tech of Law
 How do technology and law intersect? 
