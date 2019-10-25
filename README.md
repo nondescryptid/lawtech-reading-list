@@ -28,9 +28,9 @@ Computational law is a branch of legal informatics concerned with the mechanizat
 [The Accord Project](https://www.accordproject.org/) | [Legalese](https://legalese.com/)
 
 ## Law of Tech 
-How is technology regulated? 
+How are data, technology, and its applications regulated? 
 
-### Artificial Intelligence
+### Artificial Intelligence + Robotics
 [The Non-Technical AI Guide](https://towardsdatascience.com/the-non-technical-guide-to-artificial-intelligence-e9e5da1a15c5)
 
 ## Legal Education
