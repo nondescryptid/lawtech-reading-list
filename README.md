@@ -31,12 +31,16 @@ Computational law is a branch of legal informatics concerned with the mechanizat
 How are data, technology, and its applications regulated? 
 
 ### Artificial Intelligence + Robotics
-[The Non-Technical AI Guide](https://towardsdatascience.com/the-non-technical-guide-to-artificial-intelligence-e9e5da1a15c5)
 
 ## Legal Education
 
 ## Access to Justice
 [AI Goes to Court: The Growing Landscape of AI for Access to Justice](https://medium.com/legal-design-and-innovation/ai-goes-to-court-the-growing-landscape-of-ai-for-access-to-justice-3f58aca4306f)
+
+## Conceptual Stuff
+[The Non-Technical AI Guide](https://towardsdatascience.com/the-non-technical-guide-to-artificial-intelligence-e9e5da1a15c5)
+
+[A Gentle introduction to Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8) 
 
 ## Websites / Sources 
 [Stanford Legal Design & Innovation on Medium](https://medium.com/legal-design-and-innovation) 
