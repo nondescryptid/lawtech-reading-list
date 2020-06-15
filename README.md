@@ -75,6 +75,6 @@ How are data, technology, and its applications regulated?
 ## Thanks to the following contributors: 
 
 ## Contributing to this / Want to chitchat? 
-Make a pull request, and add your name (or github handle, whatever floats your boat) to the contributor section above! If you want to talk, I can be found on Telegram @suzukitomoe.
+Make a pull request, and add your name (or github handle, whatever floats your boat) to the contributor section above! If you want to talk, I can be found on Telegram @szktm.
 
 You might find [this GitHub guide](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) on basic writing and formatting syntax helpful. 
